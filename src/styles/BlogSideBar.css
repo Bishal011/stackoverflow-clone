@@ -1,0 +1,40 @@
+.blog-sidebar {
+    flex: 0.2;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .blog-sidebar section {
+    margin-bottom: 20px;
+  }
+  
+  .blog-sidebar h3 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .blog-sidebar p {
+    font-size: 12px;
+    color: #555;
+    line-height: 1.5;
+    margin-bottom: 5px;
+  }
+  
+  .blog-sidebar button {
+    padding: 10px 20px;
+    background-color: #ff5722;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .blog-sidebar button:hover {
+    background-color: #e64a19;
+  }
+  
